@@ -23,4 +23,4 @@ Rank	Languages
 1	Foundry
 2	Hardhat
 3	Slither
-📫 How to reach me: 0xsatyas@gmail.com
+
