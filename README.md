@@ -13,12 +13,12 @@ I have also experience of integration with Uniswap (V1/V2/V3), Sushiswap, Yearn,
 
 🌱 I’m currently learning Auditing Defi projects and help safeguard crypto assets.
 
-## My top languages
+### My top languages
 🚀	Solidity
 🚀	Python
 🚀	Javascript
 
-## My Toolkit
+### My Toolkit
 🚀	Foundry
 🚀	Hardhat
 🚀	Slither
